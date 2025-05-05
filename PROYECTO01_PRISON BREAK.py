@@ -1,5 +1,5 @@
 """---PRISON BREAK JUEGO---"""
-
+# Ha sido forkeado
 #Importo random, colorama y os system
 import random
 from colorama import *
